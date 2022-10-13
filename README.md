@@ -1,2 +1,0 @@
-# pokeman
-Code Test
